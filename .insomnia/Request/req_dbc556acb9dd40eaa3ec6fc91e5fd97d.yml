@@ -1,0 +1,23 @@
+_id: req_dbc556acb9dd40eaa3ec6fc91e5fd97d
+type: Request
+parentId: fld_30e10fdb7747464eaf958fb4ef3f67a0
+modified: 1733328601149
+created: 1731612360597
+url: http://34.57.120.182:8081/sfb-repasses/usuarios/all
+name: Listar Todos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731763984670
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

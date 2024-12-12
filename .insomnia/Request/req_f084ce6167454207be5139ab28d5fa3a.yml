@@ -1,0 +1,23 @@
+_id: req_f084ce6167454207be5139ab28d5fa3a
+type: Request
+parentId: fld_30e10fdb7747464eaf958fb4ef3f67a0
+modified: 1732747015978
+created: 1731886077870
+url: http://localhost:8080/sfb-repasses/usuarios/page?page=0&size=10
+name: Listar Paginado
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731763984638.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

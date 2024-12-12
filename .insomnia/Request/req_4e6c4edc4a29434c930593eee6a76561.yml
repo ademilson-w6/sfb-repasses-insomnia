@@ -1,0 +1,32 @@
+_id: req_4e6c4edc4a29434c930593eee6a76561
+type: Request
+parentId: fld_76c97c64f12440a58535aad91e29f351
+modified: 1733970089122
+created: 1731771003646
+url: http://localhost:8080/sfb-repasses/funcoes
+name: Atualizar
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": 1,
+    	"nome": "Secretário",
+    	"indAtivo": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731769579974.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

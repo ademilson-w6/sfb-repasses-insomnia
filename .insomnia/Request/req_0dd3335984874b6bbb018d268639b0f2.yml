@@ -1,0 +1,23 @@
+_id: req_0dd3335984874b6bbb018d268639b0f2
+type: Request
+parentId: fld_257b67e9a2d748829454ae58e3ce6dd7
+modified: 1733340789786
+created: 1731628488548
+url: http://localhost:8080/sfb-repasses/usuarios/documentos/93850569056
+name: Listar documentos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731764260600
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

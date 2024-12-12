@@ -1,0 +1,31 @@
+_id: req_73ed627de29a4db7b4d3c0e3b1736545
+type: Request
+parentId: fld_76c97c64f12440a58535aad91e29f351
+modified: 1734012020078
+created: 1731770339885
+url: http://localhost:8080/sfb-repasses/funcoes
+name: Cadastrar
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome": "Secretário",
+    	"indAtivo": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731770339885
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

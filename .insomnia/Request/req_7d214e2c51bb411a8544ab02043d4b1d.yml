@@ -1,0 +1,28 @@
+_id: req_7d214e2c51bb411a8544ab02043d4b1d
+type: Request
+parentId: fld_30e10fdb7747464eaf958fb4ef3f67a0
+modified: 1733246434393
+created: 1731871327269
+url: http://localhost:8080/sfb-repasses/usuarios/autocomplete
+name: Autocomplete
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_bc89cf457a734d0a8083a55718cee04e
+    name: nome
+    value: Kat
+    description: ""
+    disabled: true
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731763984613.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

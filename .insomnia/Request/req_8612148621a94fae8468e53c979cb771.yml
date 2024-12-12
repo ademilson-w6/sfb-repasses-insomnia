@@ -1,0 +1,23 @@
+_id: req_8612148621a94fae8468e53c979cb771
+type: Request
+parentId: fld_30e10fdb7747464eaf958fb4ef3f67a0
+modified: 1732912749465
+created: 1731764074522
+url: http://localhost:8080/sfb-repasses/usuarios/1
+name: Buscar por id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731763984695
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

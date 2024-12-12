@@ -1,0 +1,33 @@
+_id: req_3e98ef7836cc431195c491cf744a52cb
+type: Request
+parentId: fld_2aefad54bb2a40eea2302fcc2f73fa6f
+modified: 1733320856830
+created: 1732661037946
+url: http://localhost:8080/sfb-repasses/usuarios/verificar-codigo
+name: Verificar Código
+description: ""
+method: POST
+body: {}
+parameters:
+  - id: pair_63e6473ca4ae4122b22a7a3b80b2bbac
+    name: email
+    value: ademilson.silva@jointecnologia.com.br
+    description: ""
+    disabled: false
+  - id: pair_c2d20cafa1bd43e6ae71f22d756afc57
+    name: codigo
+    value: "433327"
+    description: ""
+    disabled: false
+headers:
+  - name: User-Agent
+    value: insomnia/10.1.1
+authentication: {}
+metaSortKey: -1732661037946
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_879ee800ce634e0490cb773c6ef9274d
+type: Request
+parentId: fld_76c97c64f12440a58535aad91e29f351
+modified: 1733970098205
+created: 1731771305307
+url: http://localhost:8080/sfb-repasses/funcoes/1
+name: Deletar
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731768250130.7812
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

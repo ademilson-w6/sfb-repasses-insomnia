@@ -1,0 +1,28 @@
+_id: req_aa057b3d52c94ef89c4e4bd79a084d96
+type: Request
+parentId: fld_2aefad54bb2a40eea2302fcc2f73fa6f
+modified: 1732805482772
+created: 1732661480159
+url: http://localhost:8080/sfb-repasses/usuarios/enviar-codigo-verificacao
+name: Enviar código de verificação
+description: ""
+method: POST
+body: {}
+parameters:
+  - id: pair_63e6473ca4ae4122b22a7a3b80b2bbac
+    name: email
+    value: ademilson.silva@jointecnologia.com.br
+    description: ""
+    disabled: false
+headers:
+  - name: User-Agent
+    value: insomnia/10.1.1
+authentication: {}
+metaSortKey: -1732661038046
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

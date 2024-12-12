@@ -1,0 +1,23 @@
+_id: req_0c996ebb23824a0b80fe7fb1293b6aa6
+type: Request
+parentId: fld_30e10fdb7747464eaf958fb4ef3f67a0
+modified: 1733344808398
+created: 1732710572638
+url: http://localhost:8080/sfb-repasses/usuarios/page-xls?page=0&size=10
+name: Exportar XLS
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731763984626.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

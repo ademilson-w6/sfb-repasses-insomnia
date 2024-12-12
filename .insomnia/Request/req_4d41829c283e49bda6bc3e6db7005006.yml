@@ -1,0 +1,23 @@
+_id: req_4d41829c283e49bda6bc3e6db7005006
+type: Request
+parentId: fld_257b67e9a2d748829454ae58e3ce6dd7
+modified: 1733337369499
+created: 1731628952557
+url: http://localhost:8080/sfb-repasses/usuarios/documentos/93850569055/Case%20Técnico%20-%20Desenvolvedor%20Java.docx.pdf
+name: Baixar documento
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731764260500
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,35 @@
+_id: req_1fc9b8539fce496890127c0a0bd7d0b0
+type: Request
+parentId: fld_30e10fdb7747464eaf958fb4ef3f67a0
+modified: 1733246402302
+created: 1731728398424
+url: http://localhost:8080/sfb-repasses/usuarios
+name: Atualizar
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": 1,
+    	"telefoneContato": 83988065410,
+    	"emailOrgao": "email_orgao@gmail.com",
+    	"perfil": "PERFIL",
+    	"flagTipoUsuario": "SFB",
+    	"indAtivo": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731763984682.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

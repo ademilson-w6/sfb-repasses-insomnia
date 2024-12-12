@@ -1,0 +1,23 @@
+_id: req_a9ba5b971c984d93af53843ecd48e7b3
+type: Request
+parentId: fld_76c97c64f12440a58535aad91e29f351
+modified: 1733246447677
+created: 1731883189655
+url: http://localhost:8080/sfb-repasses/funcoes/autocomplete
+name: Autocomplete
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1731767680147.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

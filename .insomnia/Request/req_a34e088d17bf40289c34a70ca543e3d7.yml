@@ -1,0 +1,23 @@
+_id: req_a34e088d17bf40289c34a70ca543e3d7
+type: Request
+parentId: fld_4393b7f812b0417dbb540c9014ec8d67
+modified: 1732915069107
+created: 1732914713117
+url: http://localhost:8080/sfb-repasses/usuarios/historico/1
+name: Listar Historico
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1732914716229
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

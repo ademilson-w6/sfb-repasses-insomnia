@@ -1,0 +1,52 @@
+_id: req_e1c7ccd51d054fc7a2fdcdc8363a6b74
+type: Request
+parentId: fld_30e10fdb7747464eaf958fb4ef3f67a0
+modified: 1734010993010
+created: 1731357383771
+url: http://localhost:8080/sfb-repasses/usuarios
+name: Cadastrar
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_c75fc1268328435896f35cf65e453f5e
+      name: usuario
+      value: |-
+        {
+          "nome": "Ademilson",
+          "cpf": 6550325501,
+          "email": "ademilson.silva@jointecnologia.com.br",
+          "celular": 83988065407,
+          "idOrgao": 1,
+          "idFuncao": 1,
+          "emailProfissional": "ademilson.silva@jointecnologia.com.br",
+          "telefoneContato": 83988065407,
+          "emailOrgao": "ademilson.silva@jointecnologia.com.br"
+        }
+      description: ""
+      type: text
+      multiline: application/json
+    - id: pair_71e772b9cfb543cf8fc71195835376ab
+      name: arquivosPdf
+      value: ""
+      description: ""
+      type: file
+      fileName: C:\Users\Ademilson\Desktop\pdf_sample_2.pdf
+      disabled: false
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: insomnia/2023.5.8
+    id: pair_141cf54fe88e42c5ba2e80e7149b39f8
+authentication: {}
+metaSortKey: -1731763984720
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
